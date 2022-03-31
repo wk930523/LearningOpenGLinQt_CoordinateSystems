@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtOpenGLCoordinateSystems", "QtOpenGLCoordinateSystems\QtOpenGLCoordinateSystems.vcxproj", "{D422FA61-9643-4D84-9E5B-08621DE30DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D422FA61-9643-4D84-9E5B-08621DE30DC8}.Debug|x64.ActiveCfg = Debug|x64
+		{D422FA61-9643-4D84-9E5B-08621DE30DC8}.Debug|x64.Build.0 = Debug|x64
+		{D422FA61-9643-4D84-9E5B-08621DE30DC8}.Release|x64.ActiveCfg = Release|x64
+		{D422FA61-9643-4D84-9E5B-08621DE30DC8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C082D62C-BBC9-49E3-9CF3-421683D2A632}
+	EndGlobalSection
+EndGlobal
